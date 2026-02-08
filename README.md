@@ -64,8 +64,6 @@ Python was used to perform exploratory data analysis and derive insights:
 ```python
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
 ```
 
 ## Power BI Dashboard
@@ -81,7 +79,7 @@ An **interactive Power BI dashboard** was created to visualize key insights.
 * MRP vs Sales analysis
 * Year-wise outlet establishment trend
 
-> 📌 Filters included for Outlet Type, Location Type, and Item Type to enable dynamic analysis.
+> Filters included for Outlet Type, Location Type, and Item Type to enable dynamic analysis.
 
 ## Key Insights
 
